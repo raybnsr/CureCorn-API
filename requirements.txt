@@ -1,0 +1,10 @@
+tensorflow
+fastapi
+uvicorn
+uvicorn[standard]
+gunicorn
+python-multipart
+pillow
+matplotlib
+numpy
+opencv-python
